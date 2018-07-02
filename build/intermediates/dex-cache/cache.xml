@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\bd02ba7109934fb70e72e9993d392628\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f723668ae0f0a7ac74625e7f593e2402ee055575">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\767c68e4ab44f0973795370fc5d68193\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ec657bb192b20229696216bf233779b16bf75a54">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\3ca2e6fa4aea537f6e3b8c29d226a0a2\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c9a721adcd7dbae7a197b0ef81102336539f63ff">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\0096a369f8fc0cfcd56db0a2635feb8c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2a69972573cb7e5cc6b8652bacf981e82b68ff71">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\17bf2b7d7be2bc01b337f14038728fbd\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d5c9872f97093326e643dbda4ffea750ecd69ea5">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-16.0.0.aar\118e288b89d24a1f534ef2dd0f44f60c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f9148af2391a1288519f4f1d38da060c4a640e85">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-15.0.1.aar\5fe80e509b21c995b2f3643d4344a506\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7c9f3ed917984af2e50b56f65f0398c9e5756035">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\b0c3ee299b8df4dec039351238b08fe7\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d8fe6d91310b54734f454dd490c3c869f6290576">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-15.0.1.aar\071a3557ab09fbf8b3494af4e6964fcc\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d757f615613c93119776641df7c3537d63ac78f4">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\firebase-storage-16.0.1.aar\22fd6401d2cf5b0406ee8e2025ecd32d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5df8ef4ad8616c60a5e14bdc9232a2b6f9dc6f16">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\soloader-0.3.0.aar\3cce06b9bcce6bc4c2426c1466679364\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9803a14716e9f462afb5742811f3456c39f3be3a">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\224601707dc754e8fcd1383bbe4fff58\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ae6d33f37143b08cd8c477c9e348d61ef7ed7eba">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\2653b0e14331f4a74d3546f1a9ce6e28\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8d813c05361147f6f515f749df19223cd6256314">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.1.1\207a6efae6a3555e326de41f76bdadd9a239cbce\common-1.1.1.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="207a6efae6a3555e326de41f76bdadd9a239cbce">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\disklrucache\4.6.1\2f82d433b9dae134a9b32039a6b5b38abe8a1c46\disklrucache-4.6.1.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2f82d433b9dae134a9b32039a6b5b38abe8a1c46">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\fresco-1.9.0.aar\7e359fd4962db5a6837a834ebaafe739\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f80a752d1333efd4fb9b87da63e73909acb151af">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.1.1\e55b70d1f5620db124b3e85a7f4bdc7bd48d9f95\common-1.1.1.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e55b70d1f5620db124b3e85a7f4bdc7bd48d9f95">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\b3a32d7ec91edcfc3e41411e782ba694\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4798b2c2dd1fa53176696fa416890d27acbf5617">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\customtabs-27.1.1.aar\b2d53bfa1107d3d5689d4673980f6b51\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="243341581f994665f19570c50ac0a61610029983">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\e79ed248b89da99958afddd533f5be40\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="182370a4a0bba7903c6ff2cb7b6ac21ca4a4bf89">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\27.1.1\39ded76b5e1ce1c5b2688e1d25cdc20ecee32007\support-annotations-27.1.1.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\38e7dbc32e896399f3ffe77ad6f43f8e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="04a44d20bec92359951d025757218220f93b5d4b">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\fbcore-1.9.0.aar\b986eb5f08760cfb67969e52fc45d553\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ae15c560bc6685007440d8a70686f8348bafd791">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\glide-4.6.1.aar\dada8d1c9b8383c748b6a735916ba299\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4e55e25a0a3e509ebfa4126e5027993ea6d425f7">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\9d9023ebd58cc3a9d573d43d4b78a67c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3304d33470ff64cf83bce9189ff3648a42eb2aa7">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\70b8154f60e6c77a87653a3af6435ae2\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="637393020f93f1744e2e325a7da6706b81697efe">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\firebase-database-16.0.1.aar\ec66d0dbdbac8343964a6f3d08a95200\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c05262d45e7720198b120bbb5463f78ad345baa4">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-16.0.1.aar\282bafbf4fd933e74779c7669af9b199\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="102cfb77c8b8e17db5e8171cc8222750f7c6edc0">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\d2f84597557e2ab48f25ff5e9e64a9d8\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="651276524a6892465688d2920f28072f4b35c6e7">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\drawee-1.9.0.aar\091fb9e6433895114e316dbe9e7bf2e1\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da59c80e4a1c8df62d2b4188ef3efddab8afa236">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\5b46e62f509a49eb7f724b0404e5bb7a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4d4d98a0428b2e620e6b4a228ef9f7cb2f0debd2">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\8b1b0cd7bb50392b1f89fbedf8b03c9e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0fbef528093d3d19b229116b683bd2a66d4aeae1">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.0.aar\16ef12d5d20ed25780b1130d04b9fe5a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="efe9d64183cd00b0cd3d876383ed177e6b37398c">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\6faa7b372e2bedeee2c2cdb31a61a635\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9335f203759bfcda4b6ea729dddcf06c07150d3f">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\2f6147586363728e6fd6f2b51dbac0d5\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="23dcb4803d3103bde3f3f5db978a726338fe49ae">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\5bdaca06cbd9726be66ca736c3c4bc1e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fff6b88f6d7385f1a60a47dbc716b208eef7b0c1">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.9.0.aar\4f9915df34dfe47dd53ca0c51fd2ec1d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1c9837ec75b2273699379c2ba0ae63d669b4f08c">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\172aca2c3dd723777720c743991f653c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4d2b8ad415048e88b41ba4afcaafe36150e69b8c">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b58aa852061f87a88ac56176b9478c34\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2feadd535770271ca57b7b431f42151aa4af324a">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.9.0.aar\dc4c907ce43f786ded4f1fbfafb6e8f2\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="87382214d92be4e3c931cb6aa7aa4e827bc179b7">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\fc80bbe54b0e4e7bdde94e420367cacc\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1e224748cbf54c34eac0bca6376922468b786775">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\5ebcddc4f51813eeee845b76fe8fd3ac\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="de467de1baba33a922246561f87c0a910206d1ff">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\a6daeca6f274cbcf5d9f8680b86a63dc\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d968b9bd0011800e0d333d1571b8d34bcb8a0b6e">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\d52709a716243d70e81912d62aeb2037\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b1173d9f45ae18f2e0dc8ec42d15fa5b95c391d1">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\1db61459912a44cb50cb52c8f98fb501\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88c68e5ef7c5ace393d014c9ec5fe736b1ca55cf">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-15.0.1.aar\298f1f2b278a2a1b642cb72ad7f0ec14\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f03eac74758a738724d98cb4eda0270c1244664a">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\annotations\4.6.1\278bafb890704b66a1d6a8a98d0790f940aa5a22\annotations-4.6.1.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="278bafb890704b66a1d6a8a98d0790f940aa5a22">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\espresso-idling-resource-3.0.2.aar\a6bcc5881b7dbb6e59b99f85f833dd52\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="598b5d6a8e6168d5b4a18c45ccade14e04191696">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\1f4899fc2fcfe518a9be04c32db052cc\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="888fbeb5c88b78fc030cc725debdea1ab9dbee83">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-16.0.1.aar\e58702c4874af219258ea65056d4f615\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3577bd590bf158cae5c219b0b1a89963c3d9306a">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\24b99654d7448e5e20754247177c1e2d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c1e9d140d3260619ce2fa991d30b14b531d61dec">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\library-1.4.2.aar\90da7815f60faf22043379342a6686aa\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="74d45150416ad644b27f9a0f4b5e25741145b3d4">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\cb7ff41da3cab1270b0210442cf65cd6\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a69067467c7e4d5c810ea19ee43cbfab00a292b4">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\7562f63e65df2bdf693b206fdee69095\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="874f1143c11f5d38533efe512bf913e3e847e7df">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.android.support.constraint\constraint-layout-solver\1.1.2\bfc967828daffc35ba01c9ee204d98b664930a0f\constraint-layout-solver-1.1.2.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bfc967828daffc35ba01c9ee204d98b664930a0f">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\53bd79ae957b68b2d9f69d29dfff561c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="afb9ac89f722ac83466f1bb5f2135010b7f05f32">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\196c14d3f86201a1c011febafb4d6555\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="034bf9ed8f8ee5c2ff5da922d095fbaacfc8a892">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\c1622ca350059b552b65df1d6e116514\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7038c6d960d3fe26fd41bc509f256c9692d886ce">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\bb5a1e87caf217326432f05b69641fab\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="63413895dce50f6123807d1db2274a1982a34194">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.0.aar\b071507aa639989f62d7815caf5c0414\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ff520d5283b90ff4bb3db6b82298c3f1acd220b">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.6.1.aar\5e85da89ce5262b1e81ec854cdc28371\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d69444102ef9ffc0388fd027d3fe44e87b43a1f0">
+        <dex dex="C:\Users\user\Desktop\JournalApp\app\build\intermediates\transforms\preDex\release\36.jar" />
+    </item>
+
+</items>

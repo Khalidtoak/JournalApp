@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Journal App</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="add_title">Add title</string>
+    <string name="add_description">Add description</string>
+    <string name="title_activity_journal_detail">JournalDetail</string>
+    <string name="action_settings">Settings</string>
+</resources>
